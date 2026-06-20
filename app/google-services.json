@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23761297892",
+    "project_id": "hauling-system-1a6f3",
+    "storage_bucket": "hauling-system-1a6f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23761297892:android:2eae14cc29e01574d827f1",
+        "android_client_info": {
+          "package_name": "com.asdec.hauling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDYz9InPruA9-BA5O4axuvj86973-oIXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

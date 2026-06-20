@@ -1,0 +1,3 @@
+com.asdec.hauling.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

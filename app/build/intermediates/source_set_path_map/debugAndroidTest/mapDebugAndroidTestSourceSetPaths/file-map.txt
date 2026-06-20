@@ -1,0 +1,5 @@
+com.asdec.hauling.test.app-core-1.6.1-0 C:\Users\glory\.gradle\caches\8.11.1\transforms\10e56da044224967fb5a95db4af3c5f3\transformed\core-1.6.1\res
+com.asdec.hauling.test.app-androidTest-1 C:\Users\glory\AndroidStudioProjects\Hauling\app\build\generated\res\resValues\androidTest\debug
+com.asdec.hauling.test.app-mergeDebugAndroidTestResources-2 C:\Users\glory\AndroidStudioProjects\Hauling\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.asdec.hauling.test.app-mergeDebugAndroidTestResources-3 C:\Users\glory\AndroidStudioProjects\Hauling\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.asdec.hauling.test.app-debugAndroidTest-4 C:\Users\glory\AndroidStudioProjects\Hauling\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
